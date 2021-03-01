@@ -28,7 +28,7 @@ experience:
     location: Castelldefels, ES
     date_start: '2020-03-01'
     date_end: '2020-07-01'
-    description: Bachelor Thesis research work at Dr. Stefan Wieser group. My work was supported by a Maria Izuel Fellowship Award. My previous work at Wieser lab was published in Venturini et al, Science, 2020.
+    description:
         Responsibilities include:
         
         * Single particle tracking 
