@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mariona Colomer Rosell
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computational Biology and Bioinformatics MSc student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ETH Zürich
+  url: https://www.ethz.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include biophysics and computational biology.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biophysics
+- Computational Biology
+- Complex Systems
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computational Biology and Bioinformatics
+    institution: ETH Zürich
+    year: now
+  - course: BSc in Physics
+    institution: Universitat de Barcelona
+    year: 2020
+  - course: Exchange
+    institution: KTH University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
