@@ -31,8 +31,8 @@ education:
   - course: BSc in Physics
     institution: Universitat de Barcelona
     year: 2020
-  - course: Exchange
-    institution: KTH University
+  - course: Exchange semester
+    institution: KTH Royal Institute of Technology
     year: 2020
 
 # Social/Academic Networking
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a Computational Biology and Bioinformatics master student at ETH Zürich. I am interested in applying computational tools to study life sciences. Physics graduate from the University of Barcelona. Last year I was an exchange student at KTH Stockholm and I was awarded a Maria Yzuel fellowship to do my Bachelor Thesis at the Institute of Photonic Sciences. I am also fond of education and scientific outreach. Thus, I co-created the project Fisikids for bringing science to primary school kids. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mariona is a Computational Biology and Bioinformatics master student at ETH Zürich. She is a physics graduate from the University of Barcelona. Last year Mariona was an exchange student at KTH Stockholm and was awarded a Maria Yzuel fellowship to do my Bachelor Thesis at the Institute of Photonic Sciences. She is also fond of education and scientific outreach. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
