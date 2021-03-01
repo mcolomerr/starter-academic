@@ -22,18 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Student
+    company: ICFO
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
+    location: Castelldefels, ES
+    date_start: '2020-03-01'
+    date_end: '2020-07-01'
+    description: Bachelor Thesis research work at Dr. Stefan Wieser group. My work was supported by a Maria Izuel Fellowship Award. My previous work at Wieser lab was published in Venturini et al, Science, 2020.
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Single particle tracking 
+        * Cytoskeleton simulations
+        * Batch-processing scripts and data analysis with Python, Fiji and Matlab
         
   - title: Professor
     company: University X
