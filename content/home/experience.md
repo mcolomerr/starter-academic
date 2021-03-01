@@ -28,12 +28,7 @@ experience:
     location: Castelldefels, ES
     date_start: '2020-03-01'
     date_end: '2020-07-01'
-    description:
-        Responsibilities include:
-        
-        * Single particle tracking 
-        * Cytoskeleton simulations
-        * Batch-processing scripts and data analysis with Python, Fiji and Matlab
+    description: blabla
         
   - title: Professor
     company: University X
