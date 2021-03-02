@@ -21,16 +21,17 @@ interests:
 - Biophysics
 - Computational Biology
 - Complex Systems
+- Outreach
 
 # Education to show in About widget
 education:
   courses:
   - course: MSc in Computational Biology and Bioinformatics
     institution: ETH Zürich
-    year: now
+    year: 2020-now
   - course: BSc in Physics
     institution: Universitat de Barcelona
-    year: 2020
+    year: 2015-2020
   - course: Exchange semester
     institution: KTH Royal Institute of Technology
     year: 2020
@@ -42,19 +43,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:mcolomerrosell@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mcolomerr
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=laBvJ0AAAAAJ&hl=en
+#  icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/m-colomer-rosell/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
