@@ -73,4 +73,4 @@ highlight_name: false
 
 Mariona is a Computational Biology and Bioinformatics master student at ETH Zürich. She is a physics graduate from the University of Barcelona. Last year Mariona was an exchange student at KTH Stockholm and was awarded a Maria Yzuel fellowship to do my Bachelor Thesis at the Institute of Photonic Sciences. She is also fond of education and scientific outreach. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
