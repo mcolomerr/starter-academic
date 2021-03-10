@@ -28,10 +28,10 @@ education:
   courses:
   - course: MSc in Computational Biology and Bioinformatics
     institution: ETH Zürich
-    year: 2020-now
+    year: 2020 - now
   - course: BSc in Physics
     institution: Universitat de Barcelona
-    year: 2015-2020
+    year: 2015 - 2020
   - course: Exchange semester
     institution: KTH Royal Institute of Technology
     year: 2020
@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Mariona is a Computational Biology and Bioinformatics master student at ETH Zürich. She is a physics graduate from the University of Barcelona. Last year Mariona was an exchange student at KTH Stockholm and was awarded a Maria Yzuel fellowship to do my Bachelor Thesis at the Institute of Photonic Sciences. She is also fond of education and scientific outreach. 
+I am a Computational Biology and Bioinformatics master student at ETH Zürich. I am a Physics graduate from the University of Barcelona. Last year I was an exchange student at KTH Stockholm and was awarded a Maria Yzuel fellowship to do my Bachelor Thesis at the Institute of Photonic Sciences. I am also fond of education and scientific outreach. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
